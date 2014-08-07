@@ -1,0 +1,8 @@
+build
+*.pyc
+*~.nib
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode2v3
+xcuserdata
