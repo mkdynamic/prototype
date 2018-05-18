@@ -8,9 +8,9 @@ A Mac app for creating mockups.
 
 ## Sample
 
-![](/mkdynamic/prototype/master/Samples/export.png)
+![](Samples/export.png)
 
-Here is a sample export produced by the app as [PNG](/mkdynamic/prototype/master/Samples/export.png) and as [PDF](/mkdynamic/prototype/master/Samples/export.pdf).
+Here is a sample export produced by the app as [PNG](Samples/export.png) and as [PDF](Samples/export.pdf).
 
 ## Motivation
 
