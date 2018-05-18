@@ -6,11 +6,11 @@ A Mac app for creating mockups.
 
 [Download an alpha build of Prototype.](https://github.com/mkdynamic/prototype/releases/download/alpha/Prototype.Alpha.zip)
 
-## Screenshot
+## Sample
 
-![](http://cl.ly/image/2g3o2C3c3Y0y/content)
+![](/mkdynamic/prototype/master/Samples/export.png)
 
-Here is a sample export produced by the app as [PNG](http://cl.ly/image/2V3O3G1B0t2J/content) and as [PDF](http://cl.ly/243f1Z072R2q/content).
+Here is a sample export produced by the app as [PNG](/mkdynamic/prototype/master/Samples/export.png) and as [PDF](/mkdynamic/prototype/master/Samples/export.pdf).
 
 ## Motivation
 
